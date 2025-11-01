@@ -1,0 +1,5 @@
+{
+  "name": "Tempo - Business UI for Temporal",
+  "description": "A multi-tenant SaaS application providing a business-friendly UI and human-task inbox for Temporal.io workflows. It features an inbox for tasks, filtering, approval/rejection flows, audit logs, and settings within a scalable architecture.",
+  "requestFramePermissions": []
+}
